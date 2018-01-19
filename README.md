@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>DAV BIRGUNJ</title>
+<title>DAV Birgunj</title>
 <style>
 #left{
 	display: inline-block;
@@ -10,8 +10,12 @@
 	margin-right: 15%;
 	margin-top: 6%;
 }
-
-
+h2{
+	color: red;
+}
+h3{
+	color: green;
+}
 .search{
 	text-align: right;
 }
@@ -69,7 +73,7 @@ li a.active {
 		transform: translateY(-10px);
 	}
 }
-.aa ul li a:hover:not(.active){
+.aa ul li a:hover:not(.active) {
     background-color: red;
 	color: white;
 	height: 40px;
@@ -80,7 +84,7 @@ li a.active {
 	height: 5px;
 }
 #slideshow{
-height: 300px;
+height: 320px;
 width: 100%;
 }
 .mySlides {display:none;}
@@ -90,7 +94,7 @@ border-radius: 100% 100%;
 .writtingsection{
 	background-color: lightgrey;
 	width: 1000px;
-    height: 1680px;
+    height: 2250px;
     margin: auto;
 }
 hr{
@@ -99,7 +103,7 @@ hr{
 .footer{
 	background-color: e9edf2;
 	color: black;
-	width: 100%
+	width: 100%;
 }
 .happy{
 	text-align: center;
@@ -109,14 +113,14 @@ hr{
 </style>
 </head>
 <body>
-
+<header>
 	<div class="h3m">
 	<div id="dav logo">
 		<div id="left">
 		<img src="img\logo2.jpg">
-	</div>
-<DIV class="hello">
-<marquee><h1>D.A.V R.B KEDIA HIGHER SECONDARY SCHOOL</h1></marquee>
+	</div><DIV class="hello">
+	<marquee><h1>D.A.V R.B KEDIA HIGHER SECONDARY SCHOOL</h1></marquee>
+
 </DIV>
 </div>
 <div class="search">
@@ -126,13 +130,13 @@ hr{
 </form>
 </div>
 </div>
+</header>
 <div class="menu">
 	<div class="aa">
-		
 <ul>
 		<li><a href="index.html">HOME</a></li>
-				<li><a class="active"href="activities.html">ACTIVITIES</a></li>
-				<li><a href="teachers.html">TEACHER</a></li>
+				<li><a href="activities.html">ACTIVITIES</a></li>
+				<li><a class="active"href="teachers.html">TEACHER</a></li>
 				<li><a href="examtype.html">EXAM TYPE</a></li>
 				<li><a href="contact us.html">CONTACT US</a></li>
 				<li><a href="feedback.html">FEEDBACK</a></li>
@@ -141,7 +145,7 @@ hr{
 </div>
 <div id="slideshow">
 		<div id="kkk"></div>
-	 <script type="text/javascript" src="js/jssor.slider.min.js"></script>
+  <script type="text/javascript" src="js/jssor.slider.min.js"></script>
     <!-- use jssor.slider.debug.js instead for debug -->
     <script>
         jssor_1_slider_init = function() {
@@ -226,7 +230,7 @@ hr{
                 <img data-u="image" src="img/177965admission.jpg" />
                 <div data-u="thumb">
                     <img class="i" src="img/177965admission.jpg" />
-                   <div class="t">Adamission</div>
+                     <div class="t">Adamission</div>
                     <div class="c">Adamission banner</div>
                 </div>
             </div>
@@ -301,29 +305,85 @@ hr{
 </div>
     <!-- #endregion Jssor Slider End -->
 <div class="writtingsection">
-<center><h1>SCHOOL ACTIVITIES</h1>
-<h4>There are several activities applied to strengthen students' physical, mental,social<br>
-    and spiritual capabilities.School's curricular,co-curricular and extra-curricular<br>
-    activities not only nurture students' physical strength but also helps them to <br>
-    lead a healthy life.</h4></center>
-    <center><h1>AESTHETIC ACTIVITIES</h1></center>
-<center><img src="img\pray.jpg"></center>
-<h4> Every morning there is stuti through gyatri mantras and Devotion recitation.Every day after-school,there is Shanti-path recitation.Every Friday there
-is hawan as per hindu karma-kanda.Students are also taken for anapana One-day camp at dhamma  terai bipasana center and timely yogavyas is caried out to build the moral,aesthetic and spiritual character among students</h4>
+	<center><img src="img\Tea.jpg"></center>
+<center><h1>OUR TEACHING WAY</h1></center>
+<center><h2>Learning Medium And Methodology</h2></center>
+<center><h4>The School believes that every child possesses unique characteristics and temperament.thus the teaching and learning remain the core activities,with the student ass the focus.The school has memorised these mantras:<br><b><h3>|I hear,I know. || I see,I remember. || I do,I understand.|</h3></b><br> learning by doing is a best method that the school follows. DAV schooling emphasises always on applied education. The school is committed to enhancing learners' activities and exposure for global competence and recognition. It applies participatory,student centered teaching-learning activities at all levels</h4></center>
+<center><h1>TEACHING FACULTY </h1></center>
+<h4>The school is proud of having highly motivated,dedicated,experienced,and trained teaching staffs.Each individual teacheris confident expert in his/her subject matter.They have possessed  the willingness  to go deep into the thought and sprint to impart quality education for the development and betterment of each individual student.</h4>
+<CENTER><h1>OUR TEACHER FACULTY </h1></CENTER>
+<div class="suu"><h2>Pre-Primary Section</h2></div>
+<ul><b>
+	<li>MRS.Kakali Ghosh</li>
+	<li>MRS.Joyti Singh</li>
+	<li>MRS.Joyti  Ghimire</li>
+	<li>MRS.Niva Karn</li>
+	<li>MRS.Laxmi Sriwastava</li>
+	<li>MRS.Sangeeta Sherestha</li>
+	
+</b>
+</ul>
 
-<center><h1>Co-Curricular Activities(CCA)</h1></center>
-<center><img src="img\Co-curricular1.jpg"></center>
-
-<center><h1>Extra-Curricular Activities(ECA)</h1></center>
-
-
-<center><img src="img\dance.jpg"></center>
-
-
-<h3>CCAs and ECAs are integral parts of students' holistic development and well-rounded education.They help nurture in students qualitys such as resilience,tenacity,confidence and perseverance,which prepare them to adapt and trivein a repidly changing world.Every student takes part in one or two CO-CURRICULAR and EXTRA CURRICULAR activities taken from the following area such as: sports,games, and athletics; speeech and debate, essay,story,and poetry writing ,performing fined arts,music,dance and dramma;social work through clubs and houses activities.  </h3>  
-
-
-
+<center><h2>Secondary Section</h2></center><center><h3>Department of English</h3></center>
+<ul><b>
+	 <li>MRS. S.Sherpa</li>
+	 <li> MR. Deepak</li>
+     <li>MR. P.Pandy</li>
+	 <li>MRS. S.Dey</li>
+	 <li>MR.Ramayan Chaurasia</li>
+</b></ul>
+<center><h3>Department of Nepali</h3></center>
+<ul><b>
+	  <li>MRS. Nirmala</li>
+	  <li>MRS. Radha</li>
+</b></ul>	  
+<center><h3>Department of Hindi/Sanskrit</h3></center>
+<ul><b>
+	  <li>MRS. Madhaukant Pathak</li>
+	  <li>MRS. vijaya tripathi</li>
+</b></ul>
+<center><h3>Department of Science</h3></center>
+<ul><b>
+	<li>MR. P.Chatterje</li>
+	<li>MRS. Megha</li>
+    <li>MR. Akbar Hussan</li>
+    <li>***********************</li>
+    <li>MR. Barun</li>
+</b></ul>
+<center><h3>Department of Maths</h3></center>
+<ul><b>
+	<li>MR. Sudhir Singh</li>
+	<li>MR. Munna Shah</li>
+    <li>MR. chandresawar</li>
+</b></ul>
+<center><h3>Department of SST</h3></center>
+<ul><b>
+    <li>MRS. B.Mandal</li>
+    <li>MRS. Mausumi Datta</li>
+</b></ul>
+<center><h3>Department of Computer</h3></center>
+<ul><B>
+	<li>MRS. Neeta</li>
+    <li>MRS. kemika Singh</li>
+    <li>MR. Roshan Shah</li>
+</B></ul>
+<center><h3>Department of Commers</h3></center>
+<ul><b>
+	 <li>MR. Pawan Shah</li>
+	 <li>MR. Mukesh</li>
+	 <li>MR. Sarfosh</li>
+</b></ul>
+<center><h3>Department of Sports</h3></center>
+<ul><b>
+	  <li>MR. Sakhil</li>
+      <li>MR. Naresh</li>
+</b></ul>
+<center><h3>Department of Dance and Music</h3></center>
+<ul><b>
+	  <li>MRS. Priyanka</li>
+	  <li>MR. Prakash</li>
+	  <li>MR. kiran</li>
+</b></ul>
 
 
 </div>
@@ -334,11 +394,11 @@ is hawan as per hindu karma-kanda.Students are also taken for anapana One-day ca
 		The DAV School,2017.All rights reserved.<br>
 		| Disclamer| Privacy policy | Sitemap | Vacancy at DAV<br>
 		The DAV School website has been designed by<br>
-		<b>Aayush Singh,Asutosh Dash,Raj pachauri and Aditya Singh</b><br>
+		<b>Aayush Singh,Asutosh Dash,Raj Pachauri and Aditya Singh</b><br>
 		of standerd-8(2017/2018) <br><b>Special Thanks To,</b><br>
 		<b>Mrs kemika singh</b>(computer teacher)/<b>Mr Roshan shah</b>(computer teacher)/<b>Mr P.chatterji</b>(Principal)<br><br>
-		The DAV School,Parwanipur(Near kedia hospital),Birgunj,Parsa,Nepal,Pin-*******<br>
-		Direct Number- +977-51-690107/525500,Email:#########,<br>
+		The DAV School,Parwanipur(Near kedia hospital),Birgunj,Parsa,Nepal,Pin-******<br>
+		Direct Number- +977-51-690107/525500,Email:######,<br>
 		
 
 </div>
@@ -347,12 +407,6 @@ is hawan as per hindu karma-kanda.Students are also taken for anapana One-day ca
 
 
 </footer>
-
 </body>
 </html>
                               
-
-
-
-
-
